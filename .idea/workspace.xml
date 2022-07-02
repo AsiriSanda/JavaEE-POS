@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17a07882-d915-400b-97d6-107162c711c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaEE-POS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackEnd/BackEnd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackEnd/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEnd/FrontEnd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.json-1.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.json-api-1.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BackEnd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/web/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/BackEnd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/BackEnd.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +29,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar!/" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BackEnd" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asiri\Desktop\IJSE\JavaEE-POS\BackEnd\src" />
       <recent name="C:\Users\Asiri\Desktop\IJSE\JavaEE-POS\FrontEnd" />
     </key>
   </component>
@@ -56,7 +53,8 @@
       <updated>1656687034067</updated>
       <workItem from="1656687035398" duration="828000" />
       <workItem from="1656713812208" duration="192000" />
-      <workItem from="1656749388877" duration="1949000" />
+      <workItem from="1656749388877" duration="3194000" />
+      <workItem from="1656761093182" duration="4211000" />
     </task>
     <servers />
   </component>
@@ -64,18 +62,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="322" y="125" key="FileChooserDialogImpl" timestamp="1656750427768">
+    <state x="370" y="293" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1656767277135">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="322" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1656750427768" />
+    <state x="370" y="293" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.738@0.0.1366.738" timestamp="1656767277135" />
+    <state x="322" y="125" key="FileChooserDialogImpl" timestamp="1656767713005">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="322" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1656767713005" />
     <state x="696" y="147" key="NewModule_or_Project.wizard" timestamp="1656750342824">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="696" y="147" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1656750342824" />
-    <state x="104" y="0" key="SettingsEditor" timestamp="1656751363279">
+    <state x="104" y="0" key="SettingsEditor" timestamp="1656767770237">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1656751363279" />
+    <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1656767770237" />
     <state x="0" y="71" key="new project wizard" timestamp="1656750320984">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
