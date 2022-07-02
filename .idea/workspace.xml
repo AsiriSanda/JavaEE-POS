@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17a07882-d915-400b-97d6-107162c711c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JavaEE-POS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/BackEnd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/FrontEnd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.json-1.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.json-api-1.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BLYrtp5hFg8GwEsGderx8wn6zQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asiri\Desktop\IJSE\JavaEE-POS\FrontEnd" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a07882-d915-400b-97d6-107162c711c2" name="Default Changelist" comment="" />
+      <created>1656687034067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656687034067</updated>
+      <workItem from="1656687035398" duration="828000" />
+      <workItem from="1656713812208" duration="192000" />
+      <workItem from="1656749388877" duration="1949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="125" key="FileChooserDialogImpl" timestamp="1656750427768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="322" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1656750427768" />
+    <state x="696" y="147" key="NewModule_or_Project.wizard" timestamp="1656750342824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="696" y="147" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1656750342824" />
+    <state x="104" y="0" key="SettingsEditor" timestamp="1656751363279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1656751363279" />
+    <state x="0" y="71" key="new project wizard" timestamp="1656750320984">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="71" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1656750320984" />
+    <state x="370" y="261" key="scopes" timestamp="1656749646171">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="370" y="261" key="scopes/0.0.1366.738@0.0.1366.738" timestamp="1656749646171" />
+  </component>
+</project>

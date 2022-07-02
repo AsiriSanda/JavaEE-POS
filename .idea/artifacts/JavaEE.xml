@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="JavaEE">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEE</output-path>
+    <root id="archive" name="JavaEE.war">
+      <element id="directory" name="WEB-INF" />
+      <element id="javaee-facet-resources" facet="BackEnd/web/Web" />
+    </root>
+  </artifact>
+</component>
